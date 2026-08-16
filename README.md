@@ -46,6 +46,15 @@ The program provides a study timer where users can set their preferred session d
 
 The project was developed as a team, with different members contributing to different modules and functionalities.
 
+### Contributors
+
+- Fatma Mohsen El-Saber
+- Zamzam Ali Sarhan
+- Lamis Mohamed El-khateeb
+- Aisha Bella Ibrahim
+- Alaa Maher El-deeb
+- Sama Mohamed Rashad
+
 ### My Role
 
 - Developed the To-Do List module with task management functionalities.
