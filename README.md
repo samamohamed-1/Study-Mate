@@ -51,7 +51,7 @@ The project was developed as a team, with different members contributing to diff
 - Fatma Mohsen El-Saber
 - Zamzam Ali Sarhan
 - Lamis Mohamed El-khateeb
-- Aisha Bella Ibrahim
+- Aisha Belal Ibrahim
 - Alaa Maher El-deeb
 - Sama Mohamed Rashad
 
